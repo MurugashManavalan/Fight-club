@@ -8,7 +8,7 @@ Viewers may choose to either pit their characters in a 1 v 1 battle where the to
 
 # Installation
 
-Simply download this R script ,[Fight Club](https://github.com/Murugash-12/Fight-club/blob/main/R%20for%20Life%20-%20Shiny%20Build%20-%201%20February%202024%20-%20Final.R) and run the app in R studio. You may receive a popup in R studio asking you to update loaded packages, you may simply ignore it.
+Simply download this R script, [Fight Club](https://github.com/Murugash-12/Fight-club/blob/main/R%20for%20Life%20-%20Shiny%20Build%20-%201%20February%202024%20-%20Final.R) and run the app in R studio. You may receive a popup in R studio asking you to update loaded packages, you may simply ignore it.
 
 # App Interface
 
